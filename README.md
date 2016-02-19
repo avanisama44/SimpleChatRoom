@@ -1,2 +1,2 @@
 # ECEN-602-Project
-Course Project for computer network TAMU
+This the Course Project for computer network (ECEN602) in TAMU
